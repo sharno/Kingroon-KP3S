@@ -1,9 +1,40 @@
 I got a Kingroon KP3S 3.0 printer, still trying to figure things out but here's the resources that I found
 
+# Official videos:
+- Assembly for version 3.0 (The video I got to from google was outdated): https://www.youtube.com/watch?v=XR0hI4pVvlY
+- Bed leveling tutorial: https://www.youtube.com/watch?v=cpsmau0TnVo
+- How to add filament sensor: https://www.youtube.com/watch?v=mHwWJhEbGF4
+- How to replace main board: https://www.youtube.com/watch?v=LBa8X6U1Y_w
+- How to replace the heating tube and the thermistors sensors: https://www.youtube.com/watch?v=W7K4EUnCy6E
+- How to replace the cooling fan: https://www.youtube.com/watch?v=w-5YFIYymcE
+- How to replace Titan extruder: https://www.youtube.com/watch?v=_Ob6vjfb7UQ
+- Stepper motor installation:
+  - https://www.youtube.com/watch?v=Xf40ofJEuYg
+  - https://www.youtube.com/watch?v=_jZ-SE-kS0g
+  - https://www.youtube.com/watch?v=Zo79jQX6qJA
+- Nozzle installation:
+  - https://www.youtube.com/watch?v=w-NXUCSCNlg
+  - https://www.youtube.com/watch?v=kBYjaQFhSSA
+- Nozzle clogging troubleshooting: https://www.youtube.com/watch?v=e6X0Mhzdudc
+- Belt installation:
+  - https://www.youtube.com/watch?v=WN9NfEslSPI
+  - https://www.youtube.com/watch?v=D2j-rojJPbw
+  - https://www.youtube.com/watch?v=COBy9IvdeTE
+- How to prepare Klipper firmware: https://www.youtube.com/watch?v=AXshlSearbs
+- How to setup octopi: https://www.youtube.com/watch?v=Q2hflwNQiSI
+- How to add 3d touch (auto leveling): https://www.youtube.com/watch?v=s2ZiibBKVKI
+- How to add laser engraving: https://www.youtube.com/watch?v=nqGEDbwFWtI
+- How to make a timelapse video with DSLR: https://www.youtube.com/watch?v=quforfN6YSM
+- 3D printable upgrades:
+  - https://www.youtube.com/watch?v=rxJvDy2HzDw
+  - https://www.youtube.com/watch?v=t6ASPpqH1zM
+
 # Slicers:
 ## PrusaSlicer profiles:
 - Official from Kingroon: https://drive.google.com/drive/folders/17OpJVyVZrWrf6uncm1H41P58TKElGBk0
-- Official video from Kingroon: https://www.youtube.com/watch?v=pAzWunhUIUQ
+- Official video from Kingroon:
+  - https://www.youtube.com/watch?v=pAzWunhUIUQ
+  - https://www.youtube.com/watch?v=x8BLwpfhZ0g
 - It seems that there are tiny differences between the config from the video and from the files on google drive. But given that the files are a bit more recent, I think they should be the closest to perfect.
 - I tried the video settings and I get some stringing in my prints (I might play with retraction settings and see if I can make it disappear)
 - I'll update it here if I find that either is better than the other
